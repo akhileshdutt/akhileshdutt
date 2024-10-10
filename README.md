@@ -22,7 +22,7 @@
 
 📫 **Let's Connect:**
 - **LinkedIn:** [Your LinkedIn Profile](#)
-- **Email:** your.email@example.com
+- **Email:** akhilesh.05.dutt@gmail.com
 
 ---
 <h3 align="left">Languages and Tools:</h3>
