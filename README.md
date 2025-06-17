@@ -5,11 +5,13 @@
 💻 Tech Stack:
 Programming Languages: C++, Java, Python, JavaScript
 
-Web Development: HTML, CSS, JavaScript
+Web Development:
+  - Frontend: HTML, CSS, JavaScript
+  - Backend: PHP
 
-Frameworks/Tools: Git, Linux
+Frameworks/Tools: Git, Linux, Apache/Nginx
 
-Databases: SQL, NoSQL
+Databases: SQL, NoSQL (Learning)
 
 Cloud & DevOps: AWS (Learning)
 
