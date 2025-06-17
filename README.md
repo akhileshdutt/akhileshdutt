@@ -1,44 +1,98 @@
 👋 Hello, I'm Akhilesh Dutt!
-🎓 B.Tech CSE Student at Lovely Professional University
-🌐 Passionate about Software Development and Cybersecurity
+🎓 B.Tech in Computer Science and Engineering
+📍 Lovely Professional University | Jalandhar, Punjab
+💼 Passionate about Software Development, Full Stack Web, and Cybersecurity
 
-💻 Tech Stack:
-Programming Languages: C++, Java, Python, JavaScript
+🧑‍💻 About Me
+I’m a software enthusiast with a strong foundation in both frontend and backend development. From building responsive interfaces to ensuring server-side performance and security, I love transforming ideas into functional web solutions.
 
-Web Development:
-  - Frontend: HTML, CSS, JavaScript
-  - Backend: PHP
+Alongside development, I have hands-on exposure to cloud services, security fundamentals, and have led impactful community initiatives.
 
-Frameworks/Tools: Git, Linux, Apache/Nginx
+💼 Technical Skills
+👨‍💻 Programming & Web Development:
+Languages: C++, Java, Python, JavaScript, PHP
 
-Databases: SQL, NoSQL (Learning)
+Frontend: HTML, CSS, JavaScript, React.js
 
-Cloud & DevOps: AWS (Learning)
+Backend: Node.js, Express.js, PHP
 
-Cybersecurity Knowledge: Networking, Cyber Forensics, Security Essentials
+🗃️ Database & Cloud:
+MySQL, NoSQL
 
-🚀 Software Development Projects:
-🌆 Sundown Studio
-A stylish and responsive web project created using HTML, CSS, and JavaScript. Focuses on clean design and modern UI elements.
-🔗 View Project (Add link to project if hosted or GitHub repo)
+AWS (Cloud Computing & Deployment Basics)
 
-🔐 Password Strength Checker
-Developed a tool to assess password robustness based on criteria like length, symbols, and unpredictability.
-📄 Certificate
+🛠️ Tools & Platforms:
+Git & GitHub, Linux, Vercel
 
-🌱 Community & Contributions:
-Took part in a community sustainability project, planting over 100 trees and distributing more for greener impact.
+🔒 Cybersecurity Knowledge:
+Networking, Cyber Forensics, Security Essentials
 
-🎯 Currently Seeking:
-Internships/Projects in Frontend Development, Full-Stack Development, or Software Engineering roles.
+🚀 Featured Projects
+🌇 Sundown Studio (Dec 2024 – Jan 2025)
+A high-fidelity, pixel-perfect React-based clone of the Sundown Studio website.
 
-Eager to explore real-world development practices and contribute to meaningful solutions.
+Built using HTML, CSS, JavaScript, React
 
-📫 Let's Connect:
-LinkedIn: Your LinkedIn Profile
+Achieved 85% performance score on Google Lighthouse
 
-Email: akhilesh.05.dutt@gmail.com
+Fully responsive with smooth animations
 
+Hosted on GitHub + Vercel for live collaboration
+
+🧳 Personal Portfolio (Jul – Aug 2024)
+A responsive & interactive portfolio made with HTML, CSS, JavaScript
+
+Highlights 10+ projects and 5+ core technical skills
+
+Google Lighthouse Score: 95%
+
+Optimized navigation, performance & device compatibility
+
+🔐 Password Strength Checker (Jun – Jul 2024)
+Created using JavaScript
+
+Evaluates strength based on length, complexity, and estimated crack time
+
+Categorizes using uppercase, lowercase, digits & special characters
+
+Capable of checking 200 passwords/minute in real-time
+
+📜 Certifications
+Meta Frontend, Backend & React Developer – Coursera
+
+Prompt Engineering – IBM
+
+Amazon AWS Cloud Essentials – Coursera
+
+Cybersecurity Fundamentals – CipherSchool
+
+🌱 Community Contribution
+🌿 Environmental Initiative | Lucknow | Jun – Jul 2024
+Led a tree plantation drive with Shivdevi Educational & Social Welfare Society:
+
+Planted 100+ trees, distributed 500+
+
+Engaged 200+ community members
+
+Organized awareness campaigns boosting sustainability by 40%
+
+🏆 Achievements
+Improved user engagement by 40% on Password Strength Checker via optimization
+
+Led eco-awareness campaigns aligned with UN SDGs on sustainability
+
+Delivered smooth UI/UX projects with high Lighthouse performance scores
+
+📫 Let's Connect
+📧 Email: akhilesh.05.dutt@gmail.com
+
+🔗 LinkedIn: linkedin.com/in/akhilesh-datt
+
+🖥️ GitHub: github.com/akhileshdutt
+
+🌐 Portfolio: View Portfolio
+
+I'm currently looking for internships and collaboration opportunities in Full Stack Development, Software Engineering, or Cybersecurity projects. Let's build something awesome together!
 🛠️ Languages and Tools:
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> <a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/></a> <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a> </p>
 I'm building cool things, learning every day, and excited to connect with developers, mentors, and tech enthusiasts!
