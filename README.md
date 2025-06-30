@@ -14,7 +14,7 @@ Frontend: HTML, CSS, JavaScript, React.js
 
 Backend: Node.js, Express.js, PHP  
 
-<h3>🗃️ Database & Cloud:</h3>h>  
+<h3>🗃️ Database & Cloud:</h3>  
 MySQL, NoSQL, AWS (Deployment Basics) (Learning)  
 
 🛠️ Tools & Platforms: Git & GitHub, Linux, Vercel  
