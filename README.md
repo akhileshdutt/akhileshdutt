@@ -1,7 +1,7 @@
 <h1>👋 Hello, I'm Akhilesh Dutt!</h1>  
-🎓 B.Tech in Computer Science and Engineering  
-📍 Lovely Professional University | Jalandhar, Punjab  
-💼 Passionate about Software Development, Full Stack Web, and Cybersecurity  
+🎓 B.Tech in Computer Science and Engineering<br>
+📍 Lovely Professional University | Jalandhar, Punjab<br>    
+💼 Passionate about Software Development, Full Stack Web, and Cybersecurity    
   
 <h3>🧑‍💻 About Me</h3>  
 I’m a software enthusiast with a strong foundation in both frontend and backend development. From building responsive interfaces to ensuring server-side performance and security, I love transforming ideas into functional web solutions. Alongside development, I have hands-on exposure to cloud services, security fundamentals, and have led impactful community initiatives.  
