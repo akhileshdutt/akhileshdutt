@@ -93,7 +93,7 @@ I'm currently looking for internships and collaboration opportunities in Full St
 </a></p>
 <p>  
   
-![GitHub Timeline](https://www.githubtimeline.com/api/embed/svg/ght_dMXEiitm6rWSE8mKa8v1VSxEGvRezXfP?view=active&theme=wicked)
+![GitHub Timeline](https://www.githubtimeline.com/api/embed/svg/ght_dMXEiitm6rWSE8mKa8v1VSxEGvRezXfP?view=active&theme=dark)
 
 <!-- Optional parameters:
   - view: range | first | active (default: range)
