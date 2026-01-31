@@ -91,4 +91,15 @@ I'm currently looking for internships and collaboration opportunities in Full St
 <a href="https://www.php.net/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 </a></p>
+<p>  
+  
+![GitHub Timeline](https://www.githubtimeline.com/api/embed/svg/ght_dMXEiitm6rWSE8mKa8v1VSxEGvRezXfP?view=active&theme=wicked)
+
+<!-- Optional parameters:
+  - view: range | first | active (default: range)
+  - theme: light | dark | skyline | hacker | edgerunner | wicked | cherry-blossom | deep-waters | forest | neon-purple | grayscale | retro (default: light) 
+  - width: 400-1200 (default: 800)
+-->
+</p>
+
 I'm building cool things, learning every day, and excited to connect with developers, mentors, and tech enthusiasts!
