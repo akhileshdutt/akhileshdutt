@@ -74,6 +74,10 @@ Improved user engagement by 40% on Password Strength Checker via optimization
 Led eco-awareness campaigns aligned with UN SDGs on sustainability  
 
 Delivered smooth UI/UX projects with high Lighthouse performance scores  
+
+<a href="https://stats.hyo.dev/stats/akhileshdutt"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=akhileshdutt" width="1000px" height="340px" /></a>
+
+
   
 <h3>📫 Let's Connect  </h3>
 📧 Email: akhilesh.05.dutt@gmail.com  
@@ -103,3 +107,9 @@ I'm currently looking for internships and collaboration opportunities in Full St
 </p>
 
 I'm building cool things, learning every day, and excited to connect with developers, mentors, and tech enthusiasts!
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/akhileshdutt/akhileshdutt/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/akhileshdutt/akhileshdutt/blob/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github-snake" src="https://github.com/akhileshdutt/akhileshdutt/blob/output/github-contribution-grid-snake-dark.svg">
+</picture>
