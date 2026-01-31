@@ -108,8 +108,13 @@ I'm currently looking for internships and collaboration opportunities in Full St
 
 I'm building cool things, learning every day, and excited to connect with developers, mentors, and tech enthusiasts!
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/akhileshdutt/akhileshdutt/blob/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/akhileshdutt/akhileshdutt/blob/output/github-contribution-grid-snake-dark.svg">
   <img alt="github-snake" src="https://github.com/akhileshdutt/akhileshdutt/blob/output/github-contribution-grid-snake-dark.svg">
-</picture>
+</picture> -->
+
+<div>
+  
+  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+</div>
